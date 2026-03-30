@@ -1,63 +1,69 @@
-[![](https://komarev.com/ghpvc/?username=praveenr96&color=blue&label=Profile%20Views)](https://github.com/markoDenic/praveenr96)
-[![](https://img.shields.io/github/followers/praveenr96?label=GitHub%20Followers)](https://github.com/praveenr96)
+# Hi, I'm Praveen R 👋
 
-# Hey! 👋 I'm [Praveen] 💻
+### Senior Backend Engineer · Python · Django · FastAPI · PostgreSQL
+
+I'm a backend engineer with **5 years of experience** building and shipping production-grade web applications. I specialise in designing scalable REST APIs, working with relational databases, and integrating async systems.
+
+Currently open to **remote opportunities** with global teams.
 
 ---
 
-<h4 align="center">Software developer with proven experience in all phases of the development life cycle including Front-End, Back-End, Database, Testing, Deployment, Maintenance & Support</h4>
+## 🛠️ Tech Stack
 
-<br />
+**Languages & Frameworks**
 
-<p align="center">
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-<!-- HTML5 -->
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+**Databases & Caching**
 
-<!-- CSS 3 -->
-<img alt="CSS3"	src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<!-- Bootstrap -->
-<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstraplogoColor=white" />
-  
-<!-- Django -->
-<img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+**DevOps & Tools**
 
-<!-- Javascript -->
-<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  
-<!-- Node.js -->
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  
-<!-- Python -->
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<!-- React -->
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+---
 
-<!-- Docker -->
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+## 🚀 What I Work On
 
-<!-- VS Code -->
-<img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+- **REST API Design** — Building clean, versioned, well-documented APIs with Django REST Framework and FastAPI
+- **Database Optimisation** — Query tuning, indexing strategies, and schema design in PostgreSQL
+- **Async Systems** — Background task processing with Celery and Redis
+- **Authentication & Security** — JWT, OAuth2, role-based access control
+- **Containerisation** — Dockerizing applications and setting up CI/CD pipelines
 
-<!-- Git -->
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+---
 
-</p>
+## 📌 Featured Projects
 
+> *(Projects being added — check back soon or see pinned repositories below)*
 
-<!-- Socials -->
-<a href="https://twitter.com/praveenr_96"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Praveen Twitter profile" width="40"/></a>
-&ensp;<a href="https://www.linkedin.com/in/praveen-r-a21ab7b1/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Praveen Linkedin account" width="30"/></a>
-&ensp;<a href="https://www.instagram.com/mr.pr_96"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="Praveen Instagram profile" width="30"/></a>
-&ensp;<a href="https://github.com/praveenr96"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" title="GitHub" alt="Praveen GitHub profile" width="30"/></a>
-<br>
+---
 
+## 📈 GitHub Stats
 
-### Let's Connect 🔗
+![Praveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveenr96&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenr96&layout=compact&theme=dark&hide_border=true&langs_count=6&hide=ruby,javascript,html,css)
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/praveen-r-a21ab7b1//)
-[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/praveenr_96) 
-[![](https://img.shields.io/badge/instagram-%230077B5.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=8a3ab9)](https://www.instagram.com/mr.pr_96/)
+---
 
+## 📫 Let's Connect
+
+I'm always open to interesting conversations about backend architecture, remote work, or Python.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-r-a21ab7b1/)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/praveenr96)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveenrk189@gmail.com)
+
+---
+
+*Open to remote roles · Available for full-time positions*
